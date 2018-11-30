@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/wick-site-v1/static/media/facebook.015efa5e.png"
   },
   {
-    "revision": "d79b71b3551cf5254d01",
-    "url": "/wick-site-v1/static/css/main.dad6596c.chunk.css"
+    "revision": "6bd1bee1589a0f353bef",
+    "url": "/wick-site-v1/static/css/main.719cf32f.chunk.css"
   },
   {
     "revision": "228282f38ec992336205a3bc0ae61bc4",
     "url": "/wick-site-v1/static/media/forestpadding.228282f3.svg"
   },
   {
-    "revision": "500bd04021d3e27060c8",
-    "url": "/wick-site-v1/static/js/1.500bd040.chunk.js"
+    "revision": "996cc1b13d54ba05c43f",
+    "url": "/wick-site-v1/static/js/1.996cc1b1.chunk.js"
   },
   {
     "revision": "973073f02d10038c87bf",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/wick-site-v1/static/media/tutorial2.a9d8712f.png"
   },
   {
-    "revision": "d79b71b3551cf5254d01",
-    "url": "/wick-site-v1/static/js/main.d79b71b3.chunk.js"
+    "revision": "6bd1bee1589a0f353bef",
+    "url": "/wick-site-v1/static/js/main.6bd1bee1.chunk.js"
   },
   {
     "revision": "4b514fbf346f8363eed03955504c0a93",
@@ -132,11 +132,11 @@ self.__precacheManifest = [
     "url": "/wick-site-v1/static/media/mountainpadding.932c7e24.svg"
   },
   {
-    "revision": "500bd04021d3e27060c8",
-    "url": "/wick-site-v1/static/css/1.12bbb601.chunk.css"
+    "revision": "996cc1b13d54ba05c43f",
+    "url": "/wick-site-v1/static/css/1.8d4d2c3d.chunk.css"
   },
   {
-    "revision": "50a20a095e0d038221bdd4d46057915a",
+    "revision": "efa57f728e09afc1639ff9fe9d6dedab",
     "url": "/wick-site-v1/index.html"
   }
 ];
