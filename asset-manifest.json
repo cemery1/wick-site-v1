@@ -1,7 +1,7 @@
 {
-  "main.css": "/wick-site-v1/static/css/main.d9d55165.chunk.css",
-  "main.js": "/wick-site-v1/static/js/main.815d0697.chunk.js",
-  "main.js.map": "/wick-site-v1/static/js/main.815d0697.chunk.js.map",
+  "main.css": "/wick-site-v1/static/css/main.dad6596c.chunk.css",
+  "main.js": "/wick-site-v1/static/js/main.d79b71b3.chunk.js",
+  "main.js.map": "/wick-site-v1/static/js/main.d79b71b3.chunk.js.map",
   "static/css/1.12bbb601.chunk.css": "/wick-site-v1/static/css/1.12bbb601.chunk.css",
   "static/js/1.500bd040.chunk.js": "/wick-site-v1/static/js/1.500bd040.chunk.js",
   "static/js/1.500bd040.chunk.js.map": "/wick-site-v1/static/js/1.500bd040.chunk.js.map",
@@ -36,9 +36,9 @@
   "static/media/wickworld.svg": "/wick-site-v1/static/media/wickworld.cbc312d2.svg",
   "static/media/mountainpadding.svg": "/wick-site-v1/static/media/mountainpadding.932c7e24.svg",
   "static/media/forestpadding.svg": "/wick-site-v1/static/media/forestpadding.228282f3.svg",
+  "static/css/main.dad6596c.chunk.css.map": "/wick-site-v1/static/css/main.dad6596c.chunk.css.map",
   "static/css/1.12bbb601.chunk.css.map": "/wick-site-v1/static/css/1.12bbb601.chunk.css.map",
-  "static/css/main.d9d55165.chunk.css.map": "/wick-site-v1/static/css/main.d9d55165.chunk.css.map",
   "index.html": "/wick-site-v1/index.html",
-  "precache-manifest.758b371c4c8748262ede5d9149ea4cdf.js": "/wick-site-v1/precache-manifest.758b371c4c8748262ede5d9149ea4cdf.js",
+  "precache-manifest.d3d21c1b2085ba09669f5397f8e0791c.js": "/wick-site-v1/precache-manifest.d3d21c1b2085ba09669f5397f8e0791c.js",
   "service-worker.js": "/wick-site-v1/service-worker.js"
 }
