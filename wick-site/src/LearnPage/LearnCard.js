@@ -63,7 +63,7 @@ const LearnCard = ({title, body, image, link, launchEditor, useImage, useButtonR
                     </Col>
                 </Row>
                 {useButtonRow && (
-                    <Row className="LearnCard-editorButtonRow">
+                    <Row className="zoomInDown animated LearnCard-editorButtonRow">
                         <Col xs="12">
                             <Button
                                 color="info"
