@@ -1,0 +1,21 @@
+/*
+    Corey Emery (cemery@andrew.cmu.edu)
+    WickEditor Website
+    NewsCard.scss
+
+    Stylings for the news cards on homepage
+*/
+
+.NewsCard {
+    &-container {
+        border: 1px solid blue;
+    }
+
+    &-date {
+        font-size: 12px;
+    }
+
+    &-title {
+        font-size: 16px;
+    }
+}

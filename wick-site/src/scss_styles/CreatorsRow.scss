@@ -1,0 +1,22 @@
+/*
+    Corey Emery (cemery@andrew.cmu.edu)
+    WickEditor Website
+    CreatorsRow.scss
+
+    Stylings for the Creators Credit Rows
+*/
+
+.CreatorsRow {
+    &-description {
+        padding: 40px 0 20px;
+    }
+
+    &-people {
+        padding-bottom: 8px;
+    }
+
+    // Center the content of the page
+    &-row {
+        justify-content: center;
+    }
+}

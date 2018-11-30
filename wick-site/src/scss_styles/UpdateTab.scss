@@ -1,0 +1,27 @@
+/*
+    Corey Emery (cemery@andrew.cmu.edu)
+    WickEditor Website
+    UpdateTab.scss
+
+    Stylings for the Update Info Tab
+*/
+
+#UpdateTab {
+    &-button {
+        margin-top: 8px;
+    }
+
+    &-container {
+        text-align: left;
+        margin: 20px 0;
+        border: 1px solid #28a745;
+    }
+
+    &-text {
+        font-size: 16px;
+    }
+
+    &-version {
+        font-size: 24px;
+    }
+}

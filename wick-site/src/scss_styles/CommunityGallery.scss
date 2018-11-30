@@ -1,0 +1,61 @@
+/*
+    Corey Emery (cemery@andrew.cmu.edu)
+    WickEditor Website
+    CommunityGallery.scss
+
+    Stylings for the Wick User Content Gallery
+*/
+
+.CommunityGallery {
+    // adjust row spacing based on screen size to
+    // maintain collage appearance
+    &-galleryRow {
+        padding-bottom: 28px;
+
+        @media screen and (min-width: 768px) {
+            padding-bottom: 26px;
+        }
+        @media screen and (min-width: 1200px) {
+            padding-bottom: 28px;
+        }
+    }
+
+    &-gridTitle,
+    &-gridSubtitle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 112px;
+    }
+
+    &-gridSubtitle {
+        font-size: 16px;
+
+        @media screen and (min-width: 768px) {
+            font-size: 12px;
+            height: 90px;
+        }
+        @media screen and (min-width: 1200px) {
+            font-size: 16px;
+            height: 112px;
+        }
+    }
+
+    &-gridTitle {
+        font-size: 32px;
+
+        @media screen and (min-width: 768px) {
+            font-size: 28px;
+            height: 90px;
+        }
+        @media screen and (min-width: 1200px) {
+            font-size: 32px;
+            height: 112px;
+        }
+    }
+
+    &-image {
+        width: 100%;
+        border-radius: 4px;
+    }
+}

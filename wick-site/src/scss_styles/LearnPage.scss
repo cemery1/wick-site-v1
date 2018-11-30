@@ -1,0 +1,22 @@
+/*
+    Corey Emery (cemery@andrew.cmu.edu)
+    WickEditor Website
+    LearnPage.scss
+
+    Stylings for the Wick Learn page
+*/
+
+.LearnPage {
+    &-contentRow {
+        padding: 40px 0;
+    }
+
+    // Center the content of the page
+    &-row {
+        justify-content: center;
+    }
+
+    &-spacerRow {
+        padding-top: 60px;
+    }
+}
