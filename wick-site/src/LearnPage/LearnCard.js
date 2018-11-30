@@ -66,6 +66,7 @@ const LearnCard = ({title, body, image, link, launchEditor, useImage, useButtonR
                     <Row className="LearnCard-editorButtonRow">
                         <Col xs="12">
                             <Button
+                                color="info"
                                 block
                                 onClick={launchEditor}
                             >
